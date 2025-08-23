@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     int n;
-    cin >> n;  // size of array
+    cin >> n; 
     
     vector<int> arr(n);
     for (int i = 0; i < n; i++) {
@@ -23,3 +23,4 @@ int main() {
 
     return 0;
 }
+
